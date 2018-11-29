@@ -1,0 +1,5 @@
+name: Friends
+version: 3.0
+author: Gamelos
+
+main: de.gamelos.friends.Main
